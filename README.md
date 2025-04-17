@@ -20,6 +20,8 @@
 > [!IMPORTANT]
 > Cloudflare CDN 已**明文禁止代理**方式使用，对于**代理套 CDN** 的自行承担风险，请勿过度依赖 [#382](https://github.com/XIU2/CloudflareSpeedTest/discussions/382) [#383](https://github.com/XIU2/CloudflareSpeedTest/discussions/383)
 
+CloudflareST.exe -tp 443 -f ip.txt -n 200 -dn 10 -sl 10 -url https://speed.xianan.cloudns.org/1g
+
 ****
 ## \# 快速使用
 
