@@ -24,6 +24,8 @@ CloudflareST.exe -tp 443 -f ip.txt -n 200 -dn 10 -sl 20 -url https://speed.xiana
 
 CloudflareST.exe -tp 443 -f ip.txt -n 200 -dn 1 -sl 20 -url https://speed.cloudflare.com
 
+CloudflareST.exe -tp 443 -f ip.txt -n 200 -dn 1 -sl 20 -url https://fiber.google.com/speedtest/
+
 ****
 ## \# 快速使用
 
